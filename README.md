@@ -1,6 +1,13 @@
 # Youtube-Resources-Learning
 ## Adding youtube courses link for learning programming and technologies
 
+ ### 🌟 How to Contribute:
+1. Fork the repository.
+2. Add the coursename, its youtube link and your name as given below in the table.
+3. Commit and push your changes.
+4. Create a pull request to the original repository.
+5. Your pull request will be merged.
+
 ## Contributors ✨
 
 SR No   | Course Name | Youtube Playlist | Contributor 
